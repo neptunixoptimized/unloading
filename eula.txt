@@ -1,0 +1,2 @@
+# https://www.minecraft.net/en-us/eula
+eula=true
